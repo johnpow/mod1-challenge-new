@@ -22,4 +22,4 @@ https://johnpow.github.io/mod1-challenge-new/
 
 ## Screenshot
 <!-- found this code on stackoverflow https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository -->
-![Horiseon screen capture](/assets/images/application-image.png?raw=true "My website")
+![Horiseon screen capture](/assets/images/01-html-css-git-homework-demo.png?raw=true "My website")
